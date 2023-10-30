@@ -9,6 +9,16 @@
   "categories": [
     "Other"
   ],
+  "author": {
+		"name": "menglinz",
+		"email": "menglinz986@gmail.com",
+		"url": "https://github.com/dreamzml"
+	},
+	"icon": "assets/images/icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/liuxueyong123/css2object.git"
+	},
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
