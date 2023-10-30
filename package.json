@@ -9,6 +9,7 @@
   "categories": [
     "Other"
   ],
+  "publisher": "menglinz986",
   "author": {
 		"name": "menglinz",
 		"email": "menglinz986@gmail.com",
@@ -17,7 +18,7 @@
 	"icon": "assets/images/icon.png",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/liuxueyong123/css2object.git"
+		"url": "https://github.com/dreamzml/vscode-object2css"
 	},
   "activationEvents": [],
   "main": "./out/extension.js",
